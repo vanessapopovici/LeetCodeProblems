@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="../Problem9/Problem9.csproj" Id="d9972fee-27ad-4e3b-95c9-cd4ffa933c17" />
   <Project Path="Problem1/Problem1.csproj" Id="bf3ce419-78d7-4855-8ee2-508b3aa9da2b" />
   <Project Path="Problem20/Problem20.csproj" Id="82202b2a-4b51-4321-9ef5-3584e8229b71" />
   <Project Path="Problem231/Problem231.csproj" Id="502ebee5-fe0b-4730-98e6-a0e1564ccf5e" />
