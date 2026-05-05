@@ -8,6 +8,7 @@ This repository serves as a personal archive of my coding journey, focusing on d
 - |32| [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/).
 - |1| [Two Sum](https://leetcode.com/problems/two-sum/).
 - |231| [Power of Two] (https://leetcode.com/problems/power-of-two/).
+- |9| [Palindrome Number] (https://leetcode.com/problems/palindrome-number/).
 
 ## Requirements
 - [.NET SDK](https://dotnet.microsoft.com/download) installed
