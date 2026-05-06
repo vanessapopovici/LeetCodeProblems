@@ -9,6 +9,7 @@ This repository serves as a personal archive of my coding journey, focusing on d
 - |1| [Two Sum](https://leetcode.com/problems/two-sum/).
 - |231| [Power of Two](https://leetcode.com/problems/power-of-two/).
 - |9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/).
+- |26| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/).
 
 ## Requirements
 - [.NET SDK](https://dotnet.microsoft.com/download) installed
