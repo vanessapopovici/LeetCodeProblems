@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="Problem1/Problem1.csproj" Id="bf3ce419-78d7-4855-8ee2-508b3aa9da2b" />
   <Project Path="Problem13/Problem13.csproj" Id="8655e6e4-b7f8-4e29-bebb-cf10843d9150" />
+  <Project Path="Problem14/Problem14.csproj" Id="33703a28-063a-451f-b8ff-29f7b6b1020d" />
   <Project Path="Problem231/Problem231.csproj" Id="502ebee5-fe0b-4730-98e6-a0e1564ccf5e" />
   <Project Path="Problem26/Problem26.csproj" Id="25f98e54-e8d2-4ca5-b6d0-6288f541324a" />
   <Project Path="Problem28/Problem28.csproj" Id="27fb49a6-bdf8-40ca-87a8-168bc8aff4d0" />
